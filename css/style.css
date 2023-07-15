@@ -1,0 +1,40 @@
+.tabela {
+    border: 1px solid black;
+     width: 500px; 
+     margin: auto;
+     background-color: aquamarine;
+}
+
+.titulo {text-align: center;
+    color:brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.componentes {
+    margin-bottom: 30px; 
+
+}
+
+.componentes label{
+    display: block;
+    font-weight: bold;
+    
+}
+
+.componentes input, select, textarea{
+    width: 400px;
+}
+
+.componentes button{
+    width: 100px;
+    border: nome;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: #0275d8;
+}
+
+.componentes button:hover{
+    background-color: #29534f;
+}
